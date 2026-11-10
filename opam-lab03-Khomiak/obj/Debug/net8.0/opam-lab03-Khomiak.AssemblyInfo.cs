@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("opam-lab03-Khomiak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee5f81569065fb248d9ef4a46e59ef7fe3cacb51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+318497bbf5bb68bd683bb0d85f74b075a310f200")]
 [assembly: System.Reflection.AssemblyProductAttribute("opam-lab03-Khomiak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("opam-lab03-Khomiak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
